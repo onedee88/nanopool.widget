@@ -2,8 +2,10 @@
 This widget shows information about your mining and current ETH price.
 
 ## Install
-1. Change account variable to your desired account
-2. Change the payout setting so it matcher your Nanopool setting
+1. Install Übersicht http://tracesof.net/uebersicht/
+2. Add nanopool.widget folder to "Widgets Folder"
+3. Change account variable in nanopool.coffeeto your desired account
+4. Change the payout setting in nanopool.coffee so it matcher your Nanopool setting
 
 ```javascript
 account = "0x49562aeb4ae361fe150ca4d26c97e2248d174d20"
