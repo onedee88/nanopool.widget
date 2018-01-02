@@ -1,4 +1,4 @@
-# Übersicht Widget showing ETH price and Nanopool stats
+# Übersicht Widget
 This widget shows information about your mining and current ETH price.
 
 ## Install
